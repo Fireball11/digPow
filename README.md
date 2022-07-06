@@ -33,7 +33,7 @@ digPow(46288, 3) should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688
 ## How i did that
 I divided the task into 2 steps and 1 step also into 3 steps  
 1. Get sum of all digits raised to a power
-  1. Get Array from "n" number
-  2. Reise all digits to a power
-  3. Sum results
+      1. Get Array from "n" number
+      2. Reise all digits to a power
+      3. Sum results
 2. Multiply n by numbers up to 100000
